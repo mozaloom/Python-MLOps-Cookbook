@@ -1,4 +1,4 @@
-FROM python:3.8.8-slim-buster
+FROM python:3.12.10-bookworm
 
 # Working Directory
 WORKDIR /app
