@@ -7,7 +7,7 @@ import requests
 @click.group()
 @click.version_option("1.0")
 def cli():
-    """Machine Learning Utility Belt"""
+    """Machine Learning Utility Belt """
 
 
 @cli.command("retrain")
