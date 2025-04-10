@@ -36,7 +36,8 @@ jobs:
       uses: docker/build-push-action@v2
       with:
         context: ./
-        tags: ghcr.io/noahgift/python-mlops-cookbook:latest
+
+        tags: ghcr.io/mozaloom/python-mlops-cookbook:latest
         push: true
     
     
