@@ -2,7 +2,7 @@
 
 * Install SAM
 * `sam init`
-* `sam buid`
+* `sam build`
 *  `sam local invoke -e payload.json`
 *  `sam deploy --guided`
 
