@@ -49,7 +49,7 @@ def test_retrain():
     assert result.exit_code == 0
 
 
-# Smoke test Flask
+# Smoke test flask
 def test_index(app, client):
     res = client.get('/')
     assert res.status_code == 200
