@@ -1,3 +1,4 @@
+[![CI](https://github.com/mozaloom/Python-MLOps-Cookbook/actions/workflows/main.yml/badge.svg)](https://github.com/mozaloom/Python-MLOps-Cookbook/actions/workflows/main.yml)
 # ML Deployment Toolkit
 
 A containerized ML application ready for multi-cloud deployment on AWS, GCP, and Azure.
